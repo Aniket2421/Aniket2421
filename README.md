@@ -45,5 +45,5 @@ Built a simple ToDo list web application using React.js for frontend and Node.js
 
 ## Contact Me
 
-Feel free to reach out to me via email at yourname@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+Feel free to reach out to me via email at aniketnerkar123@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/aniket-nerkar).
 
